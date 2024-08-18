@@ -1,2 +1,2 @@
 # automacao-selenium
-Tarefas básica de automação web utilizando Selenium
+Tarefas básicas de automação web utilizando Selenium
