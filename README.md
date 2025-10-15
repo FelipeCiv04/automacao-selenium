@@ -1,2 +1,2 @@
 # automacao-selenium
-Tarefas básicas de automação web utilizando Selenium
+Biblioteca de informações para facilitar o uso de automações web utilizando PYTHON e SELENIUM como base principal.
